@@ -1,0 +1,14 @@
+version: 2
+
+defaults: &defaults
+  working_directory: ~/repo
+  docker:
+    - image: circleci/node:8.11.3-browsers
+
+jobs:
+  test:
+    <<: *defaults
+    steps:
+      - checkout
+      - run: yarn
+      - run: yarn all
