@@ -1,4 +1,3 @@
-import { ModuleRpcCommon } from 'rpc_ts/lib/common';
 /**
  * @license
  * Copyright (c) Aiden.ai
@@ -8,6 +7,7 @@ import { ModuleRpcCommon } from 'rpc_ts/lib/common';
  */
 
 import { ModuleRpcServer } from 'rpc_ts/lib/server';
+import { ModuleRpcCommon } from 'rpc_ts/lib/common';
 import { ModuleRpcProtocolServer } from 'rpc_ts/lib/protocol/server';
 import { ModuleRpcProtocolClient } from 'rpc_ts/lib/protocol/client';
 

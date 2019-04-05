@@ -1,8 +1,8 @@
 {
-  "name": "rpc_ts_aws_cognito",
+  "name": "rpc_ts_primer",
   "version": "1.0.0",
-  "description": "Using AWS Cognito with rpc_ts",
-  "repository": "git@github.com:aiden/rpc_ts_aws_cognito.git",
+  "description": "A minimal, functional example for rpc_ts.",
+  "repository": "git@github.com:aiden/rpc_ts_primer.git",
   "author": "Hadrien Chauvin",
   "license": "MIT",
   "private": true,
