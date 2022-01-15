@@ -19,7 +19,7 @@
     "chai": "3.5.0",
     "mocha": "^4",
     "prettier": "^1.13.7",
-    "shelljs": "^0.8.3",
+    "shelljs": "^0.8.5",
     "tslint": "^5.9.1",
     "tslint-config-prettier": "^1.13.0",
     "tslint-config-standard": "^7.0.0",
